@@ -18,6 +18,12 @@ This app helps users organize daily tasks efficiently with a simple and intuitiv
 
 ---
 ## 📱 Screenshots
+<p align="center">
+  <img src="assets/screenshots/landing.png" width="30%" />
+  <img src="assets/screenshots/home.png" width="30%" />
+  <img src="assets/screenshots/add_task.png" width="30%" />
+   <img src="assets/screenshots/added_task.png" width="30%" />
+</p>
 
 
 ---
