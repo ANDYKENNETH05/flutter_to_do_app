@@ -7,7 +7,7 @@ This app helps users organize daily tasks efficiently with a simple and intuitiv
 
 ## ✨ Features
 
-- 📝 Create, edit, and delete tasks  
+- 📝 Create and delete tasks  
 - ✅ Mark tasks as completed  
 - 🗓️ Add optional deadlines  
 - 💾 Offline local storage using Hive  
