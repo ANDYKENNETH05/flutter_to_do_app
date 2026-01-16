@@ -1,16 +1,28 @@
-# to_do_list
+# ✅ To-Do List App (Flutter)
 
-A new Flutter project.
+A **clean, modern, and offline-first To-Do mobile application** built with **Flutter** and **Hive**.  
+This app helps users organize daily tasks efficiently with a simple and intuitive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 Create, edit, and delete tasks  
+- ✅ Mark tasks as completed  
+- 🗓️ Add optional deadlines  
+- 💾 Offline local storage using Hive  
+- 🎨 Clean Material UI design  
+- 🚀 Landing page before home screen  
+- ➕ Add tasks using a bottom sheet  
+- 🔄 Smooth navigation and animations  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+## 📱 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+---
+
+
+---
+
+
